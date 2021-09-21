@@ -2,16 +2,49 @@
 
 **Leviaiz (Rewlf2)**
 
-Dating back to 2009, initially known as Rewlf2, named after his first LF2 mod Reality Little Fighters, was fascinated by R-LF2 and C-LF2, and created an overpowered modification, published in the now closed ztage forum (named LF2 official forum at that time) and got heavily criticized. After 1 year of remaking the game, it was again published but still received mediocre reception.
+Programmer  
+LF2 Data changer with extensive knowledge of LF2 mechanics  
+Created about 60 products:
+* 40+ backgrounds
+* A dozen characters with new systems
+* Compiled fully playable modified LF2 programs (LF2 mods)
+  * LF2: Story of HongBa - Fully fledged mod which includes complete story, new stage mode, characters and backgrounds, also acts as a compilation of my creations.
+  * LF2: Hetero Clash - Rebuild of RewLF2, more akin to original LF2 but still plays like R-LF2.
+  * Reality Little Fighters 2 - Overpowered mod inspired by R-LF2 and C-LF2.
+  * Mecha-LF: A small mod replacing characters with mecha from SRW J, featuring mecha systems like laser shield.
+  * Road to Fighter: A mechanism-changing mod aiming to replace all basic commands to match that of fighting games.
 
-At that time a complete rebuild of this game began, named LF2 Hetero Clash (LF2HC), built from original game but still plays like R-LF2, although much less overpowered and polished, Rewlf2 received feedbacks that the balance and technique of original LF2 still lacks in the version. Under several LF2 players' advice including STM93, he began rebuilding the game (again) and make it much more similar to the original LF2, named LF2: Story of HongBa.
+**History**
 
-Under several players and modders' advices, Leviaiz finally manages to create a mod with much respect to the mechanics of LF2. In the progress of making the 3 games, he also learned on modding many aspects of the game, including altering advertisement, making new backgrounds, characters, game interface and image/audit processing skills like using Audacity.
+| Date | Event |
+| --- | --- |
+| 2004 | First knew about LF2 when doing project in classmate's home playing R-LF2.
+| 2004-2006 | Developered Reality Little Fighters (RewLF2) which becomes his online name.
+| 2009 | The first version (v193) of RewLF2 was published in LF2 official forum. Due to lack of balance, it was heavily criticized.
+| 2010 | After a whole year of remaking, v195 was released. The view was not significantly improved.
+| 15 Dec 2012 | LF2 related blog was created.
+| 22 Dec 2012 | The last version of RewLF2 (v199c) was released.
+| 13 Jan 2012 | The first version (v10.0) of LF2HC was released. (The versioning system can be see in the site)
+| 20 Mar 2016 | The promotion video of LF2HC was released. Became active in Youtube.
+| 18 Jun 2016 | The last version (v14.0) of LF2HC was released.
+| 17 Oct 2016 | The base version (v0.2) of LF2HongBa was released.
+| 30 Nov 2016 | Mecha-LF was released.
+| 26 Jun 2017 | The last version (v1.8) of LF2HongBa was released.
+| 21 Jul 2017 | Furrzee, the first LF2 character ever to feature type-shifting was released.
+| 21 Aug 2017 | Winnie, a (substitue for) rep character was released.
+| 30 Jun 2018 | Significantly bugfix (v2.1) of LF2HongBa was released.
+| 21 Aug 2018 | Road to Fighter (v0.2) was released.
 
-His improvement on modding LF2 would extend to a dedicated direction: Extended Data Changing, which involves modifying .dat files in LF2 programs to achieve undiscovered effects. After the first mechanism-based character: Furrzee was created, he dedicated himself in pursuing advanced DC technology and making a few side-products along.
+**Contact:**  
+Discord (Leviaiz #0628)  
+Email (rewlf2@gmail.com)  
+ICQ (Leviaiz)  
+Youtube (rewlf2)  
+QQ (rewlf2@qq.com)  
+Blog ([Xuite - Rewlf2])  
+  
+You can read my posts in TWStar (TradChi), LF-Empire (Eng) and Bahamut forum (TradChi).  
+You can also contact me on LF-Empire by DM but that will be slower.  
+I can respond in Traditional, Simplified Chinese, English and Japanese.
 
-Examples include Killis, a Dennis with a counter system who unlocks his move with DJA command, Winnie, A wind-based female inspired by Windy in LFO, who drains her health to use her move, and Keny, a boss character who fuses several exclusive systems: heavy weapon armor (grant a new state in expense of disable using heavy weapon), Single-sided Defense System (a jointed effort with STM93, this allows character to block attacks in the front for new characters).
-
-In overall, Leviaiz now stands as an all-around LF2 modder, and also has a little skill in playing, which he sometimes posts youtube videos on his new characters and gameplay.
-
-You can contact him via Discord (Leviaiz #0628), email [mailto:rewlf2@gmail.com], ICQ (@leviaiz), QQ, Skype... (I'll make up my mind which platform I'll allow you to contact with, but hey, I guess you might be tired with all the reading.)
+[Xuite - Rewlf2]: <https://blog.xuite.net/rewlf2/>
