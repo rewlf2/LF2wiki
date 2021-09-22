@@ -2,13 +2,13 @@
 
 | Character | Weapons | Modes | Settings  | About
 | --- | --- | --- | --- | --- |
-| [Template] | [Stick] | [VS mode] | [Interface] | [History of LF2]
-| [Julian] | [Hoe] | [Stage mode] | [Network game] | [Creators]
-| [Firzen] | [Knife] | [Survival mode] | [Control settings] | [Community]
-| [LouisEX] | [Baseball] | [Championship] | [Recording function] | [Wiki creator]
-| [Bat] | [Milk] | [Battle mode] | [Advertisement]
-| [Deep] | [Stone] | [Demo]
-| [John] | [Wooden box]
+| [Template] | [Stick] | [VS mode] | [Interface] | [LF2]
+| [Julian] | [Hoe] | [Stage mode] | [Network game] | [History of LF2]
+| [Firzen] | [Knife] | [Survival mode] | [Control settings] | [Creators]
+| [LouisEX] | [Baseball] | [Championship] | [Recording function] | [Community]
+| [Bat] | [Milk] | [Battle mode] | [Advertisement] | [History of Community]
+| [Deep] | [Stone] | [Demo] | | [This wiki]
+| [John] | [Wooden box] | | | [Wiki creator]
 | [Henry] | [Beer]
 | [Rudolf] | [Boomerang]
 | [Louis] | [Louis's torso armor]
@@ -76,7 +76,10 @@
 [Control settings]: <control.html>
 [Recording function]: <recording.html>
 [Advertisement]: <Advertisement.html>
-[History of LF2]: <network.html>
+[LF2]: <aboutLF2.html>
+[History of LF2]: <history.html>
 [Creators]: <Creators.html>
 [Community]: <Community.html>
+[History of Community]: <histOfCommunity.html>
+[This wiki]: <aboutwiki.html>
 [Wiki creator]: <wikicreator.html>

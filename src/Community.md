@@ -46,12 +46,13 @@ List of out-of-service communities (Too bad!)
 | LF2資源庫論壇 | Forum | SimpleChi | Hosted by Octopus(章魚), closed due to hosting ends.
 | TWBBS (台灣論壇) | Forum, Archive, Wiki | TradChi | Closed in 30 Nov 2012, it was one of major forums where taiwan players lurked in.
 | 藍魔鬼之家 | Archive | TradChi | Homepage of Blue-ghost, creator of LF2 Sidestory.
-| 小朋友齊打交和平會 | Wiki | TradChi | Created by GJP.
+| [小朋友齊打交和平會] | Wiki | TradChi | Created by GJP. Archived.
 | 小朋友齊打交ㄉ樂園 | Wiki | TradChi
-| [Hong Kong Little Fighter Utopia] | Wiki | TradChi | Created by YU, martnwoo et al. , website is archived.
+| [Hong Kong Little Fighter Utopia] | Wiki | TradChi | Created by YU, martnwoo et al. , archived under LF2 Nostalgia.
 | LF2同人小說《新世紀降魔傳》 | Fanfiction | TradChi
 | [LF2 global] | Forum | Eng | Suffers from outage.
 | [HK-LF2] | Wiki | TradChi | Taken down
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -73,13 +74,14 @@ List of out-of-service communities (Too bad!)
 [LF2 Replays]: <http://lf2replays.appspot.com/>
 [LF2 Nostalgia]: <http://lf2-nostalgia.info/>
 [LF2 Robbie United fansite]: <https://sites.google.com/site/lf2robbie>
-[HK-LF2]: <http://hk-lf2.wix.com/hklf2>
 [Luigi's Studio]: <http://lf.lui-studio.net/>
 [F-LF project]: <https://project-f.github.io/F.LF/>
 
 [Ztage forum]: <https://lf.lui-studio.net/ztage/index.html>
+[小朋友齊打交和平會]: <https://www.mediafire.com/file/7iq7sbddcwc9jjp/lf2peace.zip/file>
 [Hong Kong Little Fighter Utopia]: <http://hklfu.lf2-nostalgia.info/link.html>
 [LF2 global]: <http://lf2-global.com/>
+[HK-LF2]: <http://hk-lf2.wix.com/hklf2>
 
 [Little Fighter Empire - Discord]: <https://discord.gg/Z2MFSMD>
 [Chiko's LF2 Lobby - Discord]: <https://discord.gg/7byXUDV>
