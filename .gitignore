@@ -1,4 +1,3 @@
-!mdbook.exe
-!build.bat
-!/dist/
-!/asset/
+mdbook.exe
+/dist/
+/asset/

@@ -20,11 +20,11 @@ Nevertheless, the innovative playing style of mixing fighting game and beat'em u
 
 ### Data changing
 
-The data changing community never started until Jiquera Mondilano, a Philipine programmer discovered a way to  decrypt the close-sourced .dat files inside LF2 program. Before that, data modification was limited to swapping data files and modifying data.txt, an index file inside LF2 program folder.
+The data changing community never started until Jiquera Mondilano, a Philipine programmer discovered a way to decrypt the close-sourced .dat files inside LF2 program, and created the first data changer, named lf2_dc_v1.4. Although Marti Wong did not approve of this, he took no legal action against it.
 
-The discovery of decryption has led Jiquera to create the first data changer, named lf2_dc_v1.4, and this program can readily modify .dat files quickly. Although Marti Wong did not approve of this, he took no legal action against it.
+Before that, data modification was limited to swapping data files and modifying data.txt, an index file inside LF2 program folder.
 
-The widespread of this program led to an immense burst of the data changing community, leading to thousands of modified characters, backgrounds, and creation of mechanics unexpected in the original game. It also improved the popularity of the original game, although the data changer community would soon develop a bitter relationship with the expert player groups.
+The widespread of the program led to an immense burst of the data changing community, leading to thousands of modified characters, backgrounds, and creation of mechanics unexpected in the original game. It also improved the popularity of the original game, although the data changer community would soon develop a bitter relationship with the expert player groups.
 
 ### Exe file changing
 
