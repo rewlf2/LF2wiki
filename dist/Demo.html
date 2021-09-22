@@ -1,0 +1,197 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Demo</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="favicon.svg">
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Little Fighter 2 Wiki</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.</strong> Characters</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="Template.html"><strong aria-hidden="true">1.1.</strong> Template</a></li><li class="chapter-item expanded "><a href="Julian.html"><strong aria-hidden="true">1.2.</strong> Julian</a></li><li class="chapter-item expanded "><a href="Firzen.html"><strong aria-hidden="true">1.3.</strong> Firzen</a></li><li class="chapter-item expanded "><a href="LouisEX.html"><strong aria-hidden="true">1.4.</strong> LouisEX</a></li><li class="chapter-item expanded "><a href="Bat.html"><strong aria-hidden="true">1.5.</strong> Bat</a></li><li class="chapter-item expanded "><a href="Deep.html"><strong aria-hidden="true">1.6.</strong> Deep</a></li><li class="chapter-item expanded "><a href="John.html"><strong aria-hidden="true">1.7.</strong> John</a></li><li class="chapter-item expanded "><a href="Henry.html"><strong aria-hidden="true">1.8.</strong> Henry</a></li><li class="chapter-item expanded "><a href="Rudolf.html"><strong aria-hidden="true">1.9.</strong> Rudolf</a></li><li class="chapter-item expanded "><a href="Louis.html"><strong aria-hidden="true">1.10.</strong> Louis</a></li><li class="chapter-item expanded "><a href="Firen.html"><strong aria-hidden="true">1.11.</strong> Firen</a></li><li class="chapter-item expanded "><a href="Freeze.html"><strong aria-hidden="true">1.12.</strong> Freeze</a></li><li class="chapter-item expanded "><a href="Dennis.html"><strong aria-hidden="true">1.13.</strong> Dennis</a></li><li class="chapter-item expanded "><a href="Woody.html"><strong aria-hidden="true">1.14.</strong> Woody</a></li><li class="chapter-item expanded "><a href="Davis.html"><strong aria-hidden="true">1.15.</strong> Davis</a></li><li class="chapter-item expanded "><a href="Justin.html"><strong aria-hidden="true">1.16.</strong> Justin</a></li><li class="chapter-item expanded "><a href="Knight.html"><strong aria-hidden="true">1.17.</strong> Knight</a></li><li class="chapter-item expanded "><a href="Jan.html"><strong aria-hidden="true">1.18.</strong> Jan</a></li><li class="chapter-item expanded "><a href="Monk.html"><strong aria-hidden="true">1.19.</strong> Monk</a></li><li class="chapter-item expanded "><a href="Sorcerer.html"><strong aria-hidden="true">1.20.</strong> Sorcerer</a></li><li class="chapter-item expanded "><a href="Jack.html"><strong aria-hidden="true">1.21.</strong> Jack</a></li><li class="chapter-item expanded "><a href="Mark.html"><strong aria-hidden="true">1.22.</strong> Mark</a></li><li class="chapter-item expanded "><a href="Hunter.html"><strong aria-hidden="true">1.23.</strong> Hunter</a></li><li class="chapter-item expanded "><a href="bandit.html"><strong aria-hidden="true">1.24.</strong> Bandit</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.</strong> Weapons</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="Stick.html"><strong aria-hidden="true">2.1.</strong> Stick</a></li><li class="chapter-item expanded "><a href="Hoe.html"><strong aria-hidden="true">2.2.</strong> Hoe</a></li><li class="chapter-item expanded "><a href="Knife.html"><strong aria-hidden="true">2.3.</strong> Knife</a></li><li class="chapter-item expanded "><a href="Baseball.html"><strong aria-hidden="true">2.4.</strong> Baseball</a></li><li class="chapter-item expanded "><a href="Milk.html"><strong aria-hidden="true">2.5.</strong> Milk</a></li><li class="chapter-item expanded "><a href="Stone.html"><strong aria-hidden="true">2.6.</strong> Stone</a></li><li class="chapter-item expanded "><a href="box.html"><strong aria-hidden="true">2.7.</strong> Wooden box</a></li><li class="chapter-item expanded "><a href="Beer.html"><strong aria-hidden="true">2.8.</strong> Beer</a></li><li class="chapter-item expanded "><a href="Boomerang.html"><strong aria-hidden="true">2.9.</strong> Boomerang</a></li><li class="chapter-item expanded "><a href="louisarmor1.html"><strong aria-hidden="true">2.10.</strong> Louis's torso armor</a></li><li class="chapter-item expanded "><a href="louisarmor2.html"><strong aria-hidden="true">2.11.</strong> Louis's limb armor</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.</strong> Modes</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="vs.html"><strong aria-hidden="true">3.1.</strong> VS mode</a></li><li class="chapter-item expanded "><a href="stage.html"><strong aria-hidden="true">3.2.</strong> Stage mode</a></li><li class="chapter-item expanded "><a href="survival.html"><strong aria-hidden="true">3.3.</strong> Survival mode</a></li><li class="chapter-item expanded "><a href="Championship.html"><strong aria-hidden="true">3.4.</strong> Championship</a></li><li class="chapter-item expanded "><a href="battle.html"><strong aria-hidden="true">3.5.</strong> Battle mode</a></li><li class="chapter-item expanded "><a href="Demo.html" class="active"><strong aria-hidden="true">3.6.</strong> Demo</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">4.</strong> Settings</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="Interface.html"><strong aria-hidden="true">4.1.</strong> Interface</a></li><li class="chapter-item expanded "><a href="network.html"><strong aria-hidden="true">4.2.</strong> Network game</a></li><li class="chapter-item expanded "><a href="control.html"><strong aria-hidden="true">4.3.</strong> Control settings</a></li><li class="chapter-item expanded "><a href="recording.html"><strong aria-hidden="true">4.4.</strong> Recording function</a></li><li class="chapter-item expanded "><a href="Advertisement.html"><strong aria-hidden="true">4.5.</strong> Advertisement</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">5.</strong> About</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="aboutLF2.html"><strong aria-hidden="true">5.1.</strong> LF2</a></li><li class="chapter-item expanded "><a href="history.html"><strong aria-hidden="true">5.2.</strong> History of LF2</a></li><li class="chapter-item expanded "><a href="Creators.html"><strong aria-hidden="true">5.3.</strong> Creators</a></li><li class="chapter-item expanded "><a href="Community.html"><strong aria-hidden="true">5.4.</strong> Community</a></li><li class="chapter-item expanded "><a href="histOfCommunity.html"><strong aria-hidden="true">5.5.</strong> History of Community</a></li><li class="chapter-item expanded "><a href="aboutwiki.html"><strong aria-hidden="true">5.6.</strong> This wiki</a></li><li class="chapter-item expanded "><a href="wikicreator.html"><strong aria-hidden="true">5.7.</strong> Wiki creator</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">5.8.</strong> Test</div></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="demo"><a class="header" href="#demo">Demo</a></h1>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="battle.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="Interface.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="battle.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="Interface.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

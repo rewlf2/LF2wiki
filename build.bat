@@ -1,10 +1,8 @@
-SET ASSETPATH=G:\programming\git\mdbook\asset
-SET MDBOOKPATH=G:\programming\git\mdbook
+SET ASSETPATH=G:\programming\git\LF2wiki\asset
+SET MDBOOKPATH=G:\programming\git\LF2wiki\
 cd /d %MDBOOKPATH%
-mdbook build 
-mkdir %MDBOOKPATH%\book\images
-mkdir %MDBOOKPATH%\book\src
+mdbook build
+mkdir %MDBOOKPATH%\dist\images
+mkdir %MDBOOKPATH%\dist\src
 REM close all images to let xcopy properly copy all images!
-xcopy %ASSETPATH%\images %MDBOOKPATH%\book\images /E /H /C /I
-REM Copy src to src of output src
-xcopy %MDBOOKPATH%\src %MDBOOKPATH%\book\src /E /H /C /I
+xcopy %ASSETPATH%\images %DESTPATH%\dist\images /E /H /C /I

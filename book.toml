@@ -1,5 +1,9 @@
 [book]
+title = "Little Fighter Wiki"
 authors = ["Leviaiz"]
 language = "en"
 multilingual = false
 src = "src"
+
+[build]
+build-dir = "dist"
