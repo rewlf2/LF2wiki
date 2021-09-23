@@ -46,15 +46,11 @@ Reference:
 * [LF2之父小熊專訪 － 香港獨立遊戲開發者的血與淚 - Qooah.com]
 * [7年奮鬥成就《Hero Fighter X》!!《小朋友齊打交》創作人Marti Wong小熊Gameapps.hk專訪! ]
 * [小朋友盡地一煲變英雄 打足二十年 in 信報]
-* [逆思新聞 - 
-永遠的經典，20年的屹立不搖，專訪「小朋友齊打交」作者
-（圖片說明／小朋友齊打交遊戲畫面。）]
+* [逆思新聞 - 永遠的經典，20年的屹立不搖，專訪「小朋友齊打交」作者]
 
 [LF2.net faq]: <https://lf2.net/faq_en.html>
 [Marti Wong - Linkedin]: <https://au.linkedin.com/in/marti-wong-76879821>
 [LF2之父小熊專訪 － 香港獨立遊戲開發者的血與淚 - Qooah.com]: <https://qooah.com/2015/07/06/little-fighter-creator-interview/>
 [7年奮鬥成就《Hero Fighter X》!!《小朋友齊打交》創作人Marti Wong小熊Gameapps.hk專訪! ]: <https://www.gameapps.hk/news/10676>
 [小朋友盡地一煲變英雄 打足二十年 in 信報]: <http://startupbeat.hkej.com/?p=18584>
-[逆思新聞 - 
-永遠的經典，20年的屹立不搖，專訪「小朋友齊打交」作者
-（圖片說明／小朋友齊打交遊戲畫面。） ]: <https://letsnews.thisistap.com/1215/%E6%B0%B8%E9%81%A0%E7%9A%84%E7%B6%93%E5%85%B8%EF%BC%8C20%E5%B9%B4%E7%9A%84%E5%B1%B9%E7%AB%8B%E4%B8%8D%E6%90%96%EF%BC%8C%E5%B0%88%E8%A8%AA%E3%80%8C%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%BD%8A%E6%89%93%E4%BA%A4/>
+[逆思新聞 - 永遠的經典，20年的屹立不搖，專訪「小朋友齊打交」作者]: <https://letsnews.thisistap.com/1215/%E6%B0%B8%E9%81%A0%E7%9A%84%E7%B6%93%E5%85%B8%EF%BC%8C20%E5%B9%B4%E7%9A%84%E5%B1%B9%E7%AB%8B%E4%B8%8D%E6%90%96%EF%BC%8C%E5%B0%88%E8%A8%AA%E3%80%8C%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%BD%8A%E6%89%93%E4%BA%A4/>
