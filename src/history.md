@@ -13,7 +13,7 @@ This is a simplified version of progress table hosted in lf2.net.
 | 25 Jan 2000 | 0.1 | 
 | 3 Feb 2000 | 0.2 | Control settings, character selection and sound added.
 | 18 Feb 2000 | Bugfix | 
-| 23 Feb 2000 | 0.3 | Computer selection, AI and groupingwere  added.
+| 23 Feb 2000 | 0.3 | Computer selection, AI and grouping were added.
 | 24 Feb 2000 | | Chinese version of lf2.net was written.
 | 26 Feb 2000 | Bugfix |
 | 31 Mar 2000 | 0.4 | Bandit and special effect added.
