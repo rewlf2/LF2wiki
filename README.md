@@ -35,7 +35,8 @@ What are exactly required:
 
 * Forum pages, posts and websites involving history of LF2 community
 * Famous community and basic information
-** It is recommended to include region, languagem feature and host of community
+* 
+** It is recommended to include region, language feature and host of community
 
 The material are required to be written in Chinese, English or Japanese. You may also pull from the project and write on pages right away.
 
