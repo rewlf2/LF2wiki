@@ -21,33 +21,33 @@ It is expected as a sample character and is approximately as strong as Bandit.
 
 ## Basic moves
 
-| ![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Active | Recovery | Fall | Damage | Properties
-| --- | --- | --- | --- | --- | --- | --- |
-| ![A image](https://i.imgur.com/TJOjpwL.png) | 2 | 4 | 0 | 20 | 20 | None
+| ![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Active | Recovery | Fall | BDefend | Damage | Properties
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![A image](https://i.imgur.com/TJOjpwL.png) | 2 | 4 | 0 | 20 | 20 | 20 | None
 
 Stuns in 3 hits. Due to hitbox lasting until end of move, if Template damages enemy after first tu of active hitbox, its next punch can hit earlier.
 
-| ![A](https://i.imgur.com/1bJ0Jmp.png) (At stunned) | Startup | Active | Recovery | Fall | Damage | Properties
-| --- | --- | --- | --- | --- | --- | --- |
-| ![superA image](https://i.imgur.com/v3SCXok.png) | 5 | 5 | 0 | 70 | 50 | None
+| ![A](https://i.imgur.com/1bJ0Jmp.png) (At stunned) | Startup | Active | Recovery | Fall | BDefend | Damage | Properties
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![superA image](https://i.imgur.com/v3SCXok.png) | 5 | 5 | 0 | 70 | 60 | 50 | None
 
 Knocks enemy up. Has frame advantage if enemy flips. Has no recovery time, allowing instant dash.
 
-| ![f](https://i.imgur.com/09QhNs0.png)![f](https://i.imgur.com/09QhNs0.png)![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Active | Recovery | Fall | Damage | Properties
-| --- | --- | --- | --- | --- | --- | --- |
-| ![runA image](https://i.imgur.com/F7owre1.png) | 5 | 6 | 4 | 70 | 20 | None
+| ![f](https://i.imgur.com/09QhNs0.png)![f](https://i.imgur.com/09QhNs0.png)![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Active | Recovery | Fall | BDefend | Damage | Properties
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![runA image](https://i.imgur.com/F7owre1.png) | 5 | 6 | 4 | 70 | 60 | 20 | None
 
 Poor startup and hits single enemy, possibly the worst runA in game. Only usable as read and overshadowed by runWA.
 
-| ![f](https://i.imgur.com/09QhNs0.png)![f](https://i.imgur.com/09QhNs0.png)![J](https://i.imgur.com/XIf0ZQS.png)![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Active | Recovery | Fall | Damage | Properties
-| --- | --- | --- | --- | --- | --- | --- |
-| ![dashA image](https://i.imgur.com/daMNHR2.png) | 3 | 21 | 0 | 70 | 70 | None
+| ![f](https://i.imgur.com/09QhNs0.png)![f](https://i.imgur.com/09QhNs0.png)![J](https://i.imgur.com/XIf0ZQS.png)![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Active | Recovery | Fall | BDefend | Damage | Properties
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![dashA image](https://i.imgur.com/daMNHR2.png) | 3 | 21 | 0 | 70 | 60 | 70 | None
 
 The only engage/disengage tool without weapon. Has an absurd active but is only fair among all characters.
 
-| ![J](https://i.imgur.com/XIf0ZQS.png)![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Active | Recovery | Fall | Damage | Properties
-| --- | --- | --- | --- | --- | --- | --- |
-| ![jumpA image](https://i.imgur.com/tweCWTS.png) | 2 | 7 | 0 | 20 | 35 | None
+| ![J](https://i.imgur.com/XIf0ZQS.png)![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Active | Recovery | Fall | BDefend | Damage | Properties
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![jumpA image](https://i.imgur.com/tweCWTS.png) | 2 | 7 | 0 | 20 | 20 | 35 | None
 
 Very similar to Bandit jumpA. Can abuse to stunlock single enemy. Not viable as engage.
 
@@ -91,7 +91,7 @@ Bad minion-rank duration. Short range makes it only usable as read.
 
 | ![bd](https://i.imgur.com/CcK5Qxd.png)![f](https://i.imgur.com/09QhNs0.png)![f](https://i.imgur.com/09QhNs0.png)![J](https://i.imgur.com/XIf0ZQS.png)![dir](https://i.imgur.com/3cI5YXV.png)![A](https://i.imgur.com/1bJ0Jmp.png) | Startup | Recovery | X-speed | Z-Speed | Y-Speed
 | --- | --- | --- | --- | --- | --- |
-| ![Wdashthw image](./images/moves/template/template_wsthw.png) | 8 | 10 | 12 | 3 | -8
+| ![Wdashthw image](https://i.imgur.com/ROiyLF1.png) | 8 | 10 | 12 | 3 | -8
 
 Drink, baseball dash throws at point-blank range. Land cancels recovery. Cannot reverse dash throw.
 
@@ -117,4 +117,4 @@ Low-tier grab attack. Can chain at most 5 times, or 4 times plus throw.
 | --- | --- | --- | --- | --- | --- |
 | ![Gthw image](https://i.imgur.com/qUbvwMv.png) | 9 | 0 | 11 | 30 | Full dark HP damage
 
-Enemy is thrown dealing 30 any-team damage. Bad minion-rank duration. Short range makes it only usable as read.
+Throws enemy dealing 30 any-team damage. Bad minion-rank duration. Short range makes it only usable as read.

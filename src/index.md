@@ -1,18 +1,18 @@
 # Little Fighter 2 Wiki
 
-| Character | Weapons | Modes | Settings  | About
-| --- | --- | --- | --- | --- |
-| [Template] | [Stick] | [VS mode] | [Interface] | [LF2]
-| [Julian] | [Hoe] | [Stage mode] | [Network game] | [History of LF2]
-| [Firzen] | [Knife] | [Survival mode] | [Control settings] | [Creators]
-| [LouisEX] | [Baseball] | [Championship] | [Recording function] | [Community]
-| [Bat] | [Milk] | [Battle mode] | [Advertisement] | [History of Community]
-| [Deep] | [Stone] | [Demo] | | [This wiki]
-| [John] | [Wooden box] | | | [Wiki creator]
-| [Henry] | [Beer]
-| [Rudolf] | [Boomerang]
-| [Louis] | [Louis's torso armor]
-| [Firen] | [Louis's limb armor]
+| Characters | Weapons | Backgrounds |
+| --- | --- | --- |
+| [Template] | [Stick] | [Lee On Road]
+| [Julian] | [Hoe] | [HK Coliseum]
+| [Firzen] | [Knife] | [Lion Forest]
+| [LouisEX] | [Baseball] | [Stanley Prison]
+| [Bat] | [Milk] | [The Great Wall]
+| [Deep] | [Stone] | [Queen's Island]
+| [John] | [Wooden box] | [Forbidden Tower]
+| [Henry] | [Beer] | [Brokeback Cliff]
+| [Rudolf] | [Boomerang] | [CUHK]
+| [Louis] | [Louis's torso armor] | [Tai Hom Village]
+| [Firen] | [Louis's limb armor] | [Template BG]
 | [Freeze]
 | [Dennis]
 | [Woody]
@@ -26,6 +26,19 @@
 | [Mark]
 | [Hunter]
 | [Bandit]
+
+| [Glossary] |
+| --- |
+
+| Modes | Settings  | About
+| --- | --- | --- |
+| [VS mode] | [Interface] | [LF2]
+| [Stage mode] | [Network game] | [History of LF2]
+| [Survival mode] | [Control settings] | [Creators]
+| [Championship] | [Recording function] | [Community]
+| [Battle mode] | [Advertisement] | [History of Community]
+| [Demo] | | [This wiki]
+| | | [Wiki creator]
 
 #### By Leviaiz (rewlf2), 2021
 
@@ -65,6 +78,18 @@
 [Boomerang]: <Boomerang.html>
 [Louis's torso armor]: <louisarmor1.html>
 [Louis's limb armor]: <louisarmor2.html>
+[Lee On Road]: <leeonroad.html>
+[HK Coliseum]: <hkcoliseum.html>
+[Lion Forest]: <lionforest.html>
+[Stanley Prison]: <stanleyprison.html>
+[The Great Wall]: <thegreatwall.html>
+[Queen's Island]: <queensisland.html>
+[Forbidden Tower]: <forbiddentower.html>
+[Brokeback Cliff]: <brokebackcliff.html>
+[CUHK]: <cuhk.html>
+[Tai Hom Village]: <taihomvillage.html>
+[Template BG]: <templatebg.html>
+[Glossary]: <glossary.html>
 [VS mode]: <vs.html>
 [Stage mode]: <stage.html>
 [Survival mode]: <survival.html>
