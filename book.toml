@@ -7,3 +7,6 @@ src = "src"
 
 [build]
 build-dir = "dist"
+
+[output.html]
+additional-css = ["custom.css"]
